@@ -1,9 +1,9 @@
 # Red-Team-Tools
 
--[PRE-ATT&CK] - Technical Information Gathering (TA0015):
-theHarvester
-Recon-ng
-Maltego CE
+PRE-ATT&CK - Technical Information Gathering (TA0015):
+- theHarvester
+- Recon-ng
+- Maltego CE
 
 PRE-ATT&CK - People Information Gathering (TA0016):
 Social Engineering Toolkit (SET)
