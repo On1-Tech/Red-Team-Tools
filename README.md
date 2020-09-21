@@ -1,6 +1,4 @@
 # Red-Team-Tools
-List of red team tools
-
 
 PRE-ATT&CK - Technical Information Gathering (TA0015):
 theHarvester
