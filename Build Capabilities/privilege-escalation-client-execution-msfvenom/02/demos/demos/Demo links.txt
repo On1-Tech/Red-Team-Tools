@@ -1,0 +1,8 @@
+Microsoft Virtual Win7 machines:
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+Kali Linux Downloads:
+https://www.kali.org/downloads/
+
+Exploits in ExploitDB:
+FTPShell Client - https://www.exploit-db.com/exploits/44596 (has link to software)

@@ -1,0 +1,9 @@
+
+WMIOps:
+https://github.com/FortyNorthSecurity/WMIOps
+
+Windows 10 developer virtual machines:
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+Windows Server evaluation:
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server

@@ -1,0 +1,19 @@
+
+Project Github
+
+github.com/cobbr/Covenant
+
+Installation Wiki
+
+https://github.com/cobbr/Covenant/wiki/Installation-And-Startup
+
+
+Resource Links
+
+https://github.com/cobbr/Covenant/wiki/Listener-Profiles
+
+https://blog.stealthbits.com/next-gen-open-source-c2-frameworks/
+
+https://github.com/cobbr/Covenant/wiki/Using-The-API
+
+

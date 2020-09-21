@@ -1,0 +1,10 @@
+VMWare workstation player: https://www.vmware.com/products/workstation-player.html
+
+Kali Linux: https://www.kali.org/downloads/
+
+Morning Catch: https://blog.cobaltstrike.com/2014/08/06/introducing-morning-catch-a-phishing-paradise/
+
+Gophish: https://getgophish.com/
+
+Gophish User Guide: https://docs.getgophish.com/user-guide/
+

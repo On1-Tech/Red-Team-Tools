@@ -1,0 +1,12 @@
+MSFVenom How-To Wiki Page
+https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom
+
+Metasploit Payloads
+https://github.com/rapid7/metasploit-framework/wiki
+
+
+Metasploit Guides
+https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit
+
+Vulnerable virtual machine
+https://github.com/rapid7/metasploitable3

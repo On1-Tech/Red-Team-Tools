@@ -1,0 +1,9 @@
+Microsoft Virtual machines:
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+Kali Linux Downloads:
+https://www.kali.org/downloads/
+
+Obfs3 info:
+https://gitweb.torproject.org/pluggable-transports/obfsproxy.git/tree/doc/obfs3/obfs3-protocol-spec.txt
+
